@@ -66,11 +66,11 @@ h2 {
 }
 #reg {
     color: rgb(255, 255, 255);
-    background-color: rgb(48, 182, 192);
+    background: linear-gradient(0.25turn, #3f87a6, #6921dd, #9820b6);
 }
 #sigin {
     color: rgb(255, 255, 255);
-    background-color: rgb(12, 169, 180);
+    background: linear-gradient(0.25turn, #9820b6, #6921dd, #3f87a6);
 }
 .reset:hover {
     background-color: black;
