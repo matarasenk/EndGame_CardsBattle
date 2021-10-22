@@ -268,13 +268,10 @@
     /*----- cached DOM element references -----*/
     const newGame = document.getElementById('new-game')
     const nextTurn = document.getElementById('next-turn')
+    const newHand = document.getElementById('new-hand') 
 
     /*----- event listeners -----*/
     // Need to add reset button functionality to new-game button
     document.getElementById("new-game").addEventListener("click", createDeck);
     document.getElementById("new-hand").addEventListener("click", dealPlayerDeck);
     document.getElementById("next-turn").addEventListener("click", compareCards);
-
-
-
-    
