@@ -1,0 +1,9 @@
+body {
+    background: url(https://cdn.wallpapersafari.com/38/13/sQtEFD.png);
+  }
+
+.jumbotron {
+  font-family: Luminari, fantasy;
+  color: aliceblue;
+  background: linear-gradient(#a501ce, #230163);
+}
