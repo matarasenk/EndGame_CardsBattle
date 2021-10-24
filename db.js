@@ -63,7 +63,7 @@ class Controller {
             if (err) {
                 return console.log(err);
             } else {
-                res.redirect('/');
+                res.redirect('/login');
             }
         })
     }
